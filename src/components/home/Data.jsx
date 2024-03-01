@@ -56,7 +56,7 @@ const Data = () => {
         </h1>
         <h3 className="home__subtitle">Software Developer</h3>
         <p className="home__description">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Pariatur porro ab aut necessitatibus animi qui voluptates sit natus dolore ipsa.         
+          I'm eager to apply my academic expertise to real-world challenges and make meaningful contributions to the tech industry.
         </p>
         
         <a href="#contact" className="button button--flex">

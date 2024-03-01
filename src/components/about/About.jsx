@@ -1,6 +1,6 @@
 import React from 'react';
 import './about.css';
-import AboutImg from "../../assets/about.jpg";
+import AboutImg from "../../assets/MyImg.jpg";
 import CV from "../../assets/Resume.pdf";
 import Info from './Info';
 
@@ -17,7 +17,12 @@ const About = () => {
                     <Info/>
 
                     <p className="about__description">
-                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Enim, placeat. Consequuntur officiis vero aperiam. Natus corporis velit repudiandae harum nihil!
+                        I'm a Computer Engineering student at Charotar University, Nadiad, with backend development experience from my internship at Devkruti Tech in Vadodara.
+
+I'm always fascinated by how technology keeps changing and improving. It fuels my passion and motivates me to keep learning.
+
+Proficient in Data Structures (C++), MERN stack, PHP, and Machine Learning (Python). My determination drives my constant pursuit of knowledge and growth.
+
                     </p>
 
                     <a download="" href={CV} className="button button--flex">

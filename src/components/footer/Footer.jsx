@@ -13,16 +13,16 @@ const Footer = () => {
             </li>
 
             <li>
-                <a href="#about" className="footer__link">Projects</a>
+                <a href="#qualification" className="footer__link">Qualifications</a>
             </li>
 
             <li>
-                <a href="#about" className="footer__link">Skills</a>
+                <a href="#skills" className="footer__link">Skills</a>
             </li>
         </ul>
 
         <div className="footer__social">
-        <a href="https://github.com/arshupadhyay" className="footer__social-link" target='_blank'>
+        <a href="https://www.instagram.com/_arsh_1441?igsh=MWpqcTVybzZwdmFjeA%3D%3D&utm_source=qr" className="footer__social-link" target='_blank'>
             <i class="bx bxl-instagram"></i>
         </a>
 

@@ -1,3 +1,11 @@
 .qualification__sections{
     display: flex;;
 }
+
+.experience__data{
+    margin-left: 35%;
+}
+
+.quaalification__title{
+    margin-top: 20px;
+}

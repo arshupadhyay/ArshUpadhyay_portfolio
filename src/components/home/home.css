@@ -1,5 +1,5 @@
 .home__container{
-    row-gap: 7rem;
+    row-gap: 3rem;
 }
 
 .home__content{
@@ -59,7 +59,7 @@
 }
 
 .home__img{
-    background: url(../../assets/profile.jpg);
+    background: url(../../assets/Myimage\ -\ Copy.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
